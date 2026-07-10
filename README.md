@@ -8,6 +8,12 @@ OpenMd.exe "C:\path\to\file.md"
 
 It includes multiple app-wide themes: Light, Dark, Evergreen, Midnight, Graphite, Ocean Depth, Terminal, OLED Black, Solarized Dark, High Contrast, Sepia, and Solarized. Pick one from `View > Theme` or the toolbar theme selector.
 
+## Screenshots
+
+| Split editor and live preview | Ocean Depth preview |
+| --- | --- |
+| ![OpenMd in the Light theme with the Markdown editor and live preview side by side](docs/images/openmd-light-split.png) | ![OpenMd in the Ocean Depth theme showing a rendered Markdown document](docs/images/openmd-ocean-depth-preview.png) |
+
 ## Build
 
 ```powershell
