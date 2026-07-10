@@ -1,0 +1,21 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# IDE and user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local Codex workspace metadata
+.agents/
+
+# Generated sample output
+samples/*.rendered.html
+samples/*.smoke-test.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
